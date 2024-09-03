@@ -8,7 +8,7 @@ cover-img: "assets/img/iamlab_groupv2.jpg"
 ## About Us
 
 <p style="text-align: justify;"> 
-The Intelligent Autonomous Manipulation (IAM) Lab at the [Carnegie Mellon University Robotics Insitute](https://ri.cmu.edu) brings together researchers to address the challenges of creating general purpose robots that are capable of performing manipulation tasks in unstructured and everyday environments. Our research focuses on developing learning methods for robots to model tasks and acquire versatile and robust manipulation skills in a sample-efficient manner. The ability to learn manipulation skills and adapt to new situations will open up a wide range of new robot applications, including deployment in hospitals, elder- and child-care, factories, space, restaurants, service industries, disaster scenarios, and the home.
+The Intelligent Autonomous Manipulation (IAM) Lab at the [Carnegie Mellon University Robotics Institute](https://www.ri.cmu.edu) brings together researchers to address the challenges of creating general purpose robots that are capable of performing manipulation tasks in unstructured and everyday environments. Our research focuses on developing learning methods for robots to model tasks and acquire versatile and robust manipulation skills in a sample-efficient manner. The ability to learn manipulation skills and adapt to new situations will open up a wide range of new robot applications, including deployment in hospitals, elder- and child-care, factories, space, restaurants, service industries, disaster scenarios, and the home.
 </p>
 
 
