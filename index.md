@@ -13,25 +13,7 @@ The Intelligent Autonomous Manipulation (IAM) Lab at the [Carnegie Mellon Univer
 
 
 ---
-#### News
-{% for item in site.data.news limit:5 %}
-  <div class="news-item">
-    {% if item.image %}
-      <div class="news-with-image">
-        <div class="news-with-image-text">
-          <p>{{ item.content }}</p>
-          <p><em>{{ item.date }}</em></p>
-        </div>
-        <img class="news-with-image-image" src="{{ item.image }}" alt="News Image" />
-      </div>
-    {% else %}
-      <div class="news-without-image">
-        <p>{{ item.content }}</p>
-        <p><em>{{ item.date }}</em></p>
-      </div>
-    {% endif %}
-  </div>
-{% endfor %}
+
 
 
 <!-- https://www.publicalbum.org/blog/embedding-google-photos-albums -->
