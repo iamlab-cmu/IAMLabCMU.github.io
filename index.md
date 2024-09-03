@@ -2,7 +2,7 @@
 layout: home
 title: IAM LAB CMU
 subtitle:  Intelligence Autonomous Manipulation
-cover-img: "assets/img/iamlab_group.jpg"
+cover-img: "assets/img/iamlab_groupv2.jpg"
 ---
 
 ## About Us
