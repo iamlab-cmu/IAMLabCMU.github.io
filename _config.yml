@@ -10,28 +10,20 @@
 ############################
 
 # Name of website
-title: Zoom Lab
+title: Intelligent Autonomous Manulation Lab
 
 # Your name to show in the footer
-author: Zeynep Temel
+author: Oliver Kroemer
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Team:
-    - People: "people"
-    # - Robots: "robots"
+  Home:
+  Lab:
   Research:
-    - Current Research: "research"
-    - Publications: "publications"
-  # Courses:
-  #   - Undergrad: "16-235" 
-  #   - Graduate: "16-778"
-  Resources:
-    - WIKIs: "wikis"
-    # - Github: "https://github.com/ZoomLabCMU"
+
 
 ################
 # --- Logo --- #
