@@ -1,5 +1,8 @@
+---
 layout: page
 title: Publications
+---
+
 <style>
 /* 1. Enable smooth scrolling */
 html {
@@ -66,19 +69,33 @@ section {
   padding-bottom: 10rem;
 }
 </style>
+
 <main>
   <div>
-Research
-DensePhysNet: Learning Dense Physical Object Representations via Multi-step Dynamic Interactions
+
+# Research
+
+## DensePhysNet: Learning Dense Physical Object Representations via Multi-step Dynamic Interactions
+
 Zhenjia Xu, Jiajun Wu, Andy Zeng, Joshua Tenenbaum, Shuran Song
-Robotics: Science and Systems 2019 (RSS 2019)
-Webpage | Paper | Code
-Show Image
-TossingBot: Learning to Throw Arbitrary Objects with Residual Physics
+
+*Robotics: Science and Systems 2019 (RSS 2019)*
+
+[Webpage](http://www.zhenjiaxu.com/DensePhysNet/) \| [Paper](https://arxiv.org/pdf/1906.03853.pdf) \| [Code](https://github.com/zhenjia-xu/DensePhysNet-Simulation)
+
+![DensePhysNet](assets/densephysnet.mp4)
+
+## TossingBot: Learning to Throw Arbitrary Objects with Residual Physics
+
 Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser
-Robotics: Science and Systems 2019 (RSS 2019), IEEE Transactions on Robotics (T-RO 2020)
-Best System Paper Award, Best Student Paper Finalist
-Webpage | Paper
-Show Image
+
+*Robotics: Science and Systems 2019 (RSS 2019), IEEE Transactions on Robotics (T-RO 2020)*
+
+**Best System Paper Award, Best Student Paper Finalist**
+
+[Webpage](https://tossingbot.cs.princeton.edu/) \| [Paper](https://arxiv.org/abs/1903.11239)
+
+![TossingBot](assets/tossing_small.jpg)
+
   </div>
 </main>
