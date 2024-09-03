@@ -1,23 +1,16 @@
 ---
 layout: home
-title: ZOOM LAB CMU
-subtitle: Compliant Systems for Mechanical Intelligence
-cover-img: "assets/img/ZoomLabGroupPhoto.jpg"
+title: IAM LAB CMU
+subtitle:  Intelligence Autonomous Manipulation
+cover-img: "assets/img/iamlab_group.jpg"
 ---
 
 ## About Us
 
 <p style="text-align: justify;"> 
-    Founded in late 2019, our vision at Zoom Lab is to create robots that can mechanically conform to the environment or objects that they interact with to alleviate the need for high-speed, high-accuracy, and high-precision controllers. We pursue this goal by developing compliant mechanisms for manipulators and robots, focusing on bio-inspiration and unconventional materials, and engaging with the community to increase interest in science and engineering.
+The Intelligent Autonomous Manipulation (IAM) Lab at the [Carnegie Mellon University Robotics Insitute](https://ri.cmu.edu) brings together researchers to address the challenges of creating general purpose robots that are capable of performing manipulation tasks in unstructured and everyday environments. Our research focuses on developing learning methods for robots to model tasks and acquire versatile and robust manipulation skills in a sample-efficient manner. The ability to learn manipulation skills and adapt to new situations will open up a wide range of new robot applications, including deployment in hospitals, elder- and child-care, factories, space, restaurants, service industries, disaster scenarios, and the home.
 </p>
 
-We are a part of the [Robotics Insitute](https://ri.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). 
-
-If you are looking to join us, [click here]().
-<!-- We are looking to expand our team. If you're interested, read about our [open positions]()!  -->
-To get more information about research and facilities, [click here](/research).
-
-Feel free to stop by our lab in Wean 1302 to see our amazing robots in action!
 
 ---
 #### News
